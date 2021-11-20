@@ -1,6 +1,6 @@
 # MockChatApp
 <div align=center>
-##Build 
+## Build 
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" width="60" height="60">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60" height="60">
